@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.15)
 
-project(StateDesignPattern)
+project(CoroutinePractice)
 
-set(SOURCES Simplecoroutines.cpp)
+set(SOURCES CustomAwaitableTypes.cpp)
 
 #include(FetchContent)
 
