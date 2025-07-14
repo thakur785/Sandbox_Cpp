@@ -32,7 +32,6 @@ int main()
       },
       asio::detached
    );
-}
 grpc_context.run();
 return 0;
 }
