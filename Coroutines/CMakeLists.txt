@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.15)
 
 project(CoroutinePractice)
 
-set(SOURCES CustomAwaitableTypes.cpp)
+set(SOURCES AsyncIOoperation.cpp)
 
 #include(FetchContent)
 
